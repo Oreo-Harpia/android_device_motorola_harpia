@@ -33,7 +33,7 @@ PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := harpia
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="harpia-user 7.1.1 NPIS26.48-36-5 12 release-keys"
+    PRIVATE_BUILD_DESC="harpia-user 7.1.1 NPIS26.48-43-2 3 release-keys"
 
-BUILD_FINGERPRINT := motorola/harpia/harpia:7.1.1/NPIS26.48-36-5/12:user/release-keys
+BUILD_FINGERPRINT := motorola/harpia/harpia:7.1.1/NPIS26.48-43-2/3:user/release-keys
 
